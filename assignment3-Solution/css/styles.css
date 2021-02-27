@@ -1,0 +1,59 @@
+body{
+
+  font-size: 16px;
+  color: #383e56;
+  box-sizing: border-box;
+}
+
+/*************************************** Start Header*********************/
+.navbar{
+  background-color: #6ddccf;
+  border-radius: 0;
+
+}
+.collapse{
+  padding: 0;
+
+}
+.nav{
+   margin:0;
+   background-color:#383e56;
+
+}
+.line{
+  margin: 0;
+}
+/*************************************** End Header*********************/
+
+/*************************************** Start Content*********************/
+h1{
+
+  margin-top: 50px;
+}
+.titre{
+  font-size: 1.5em;
+
+}
+.sec{
+  background-color: #f8a1d1;
+
+  border:1px solid;
+  margin-top: 70px;
+  border: 1px solid;
+
+}
+.top_return:hover{
+  font-size: 1.5em;
+
+}
+
+/*************************************** End Content*********************/
+@media(max-width:694px){
+
+  .row{
+    padding: 40px;
+  }
+
+
+
+}
